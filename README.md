@@ -16,9 +16,9 @@ cell. This implies that the maximum number of reachable
 neighboring cells in a single move is eight.
 
 # Requirements
-Formulate the searching problem
-Define a data structure
-Write a Python function implementing A* Algorithm
-Generate random module to test the program randomly
-Generate GUI to represent the output
-Draw a figure summarizing the average time, the worst case, the best case
+Formulate the searching problem\n
+Define a data structure\n
+Write a Python function implementing A* Algorithm\n
+Generate random module to test the program randomly\n
+Generate GUI to represent the output\n
+Draw a figure summarizing the average time, the worst case, the best case\n
